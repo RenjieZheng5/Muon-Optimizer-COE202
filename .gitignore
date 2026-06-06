@@ -5,3 +5,6 @@ __pycache__/
 venv/
 data/
 outputs/
+!outputs/gpu_full/
+!outputs/gpu_full/final_artifacts/
+!outputs/gpu_full/final_artifacts/**
