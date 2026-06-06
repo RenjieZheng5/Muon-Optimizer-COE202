@@ -1,0 +1,3 @@
+Method,Final Val Acc (%),Final Val Loss,Final Train Loss,Epoch Time (s),Seeds
+AdamW,88.75 +/- 0.49,0.3329,0.2063,2.558,5
+Muon q=3 (muon),89.95 +/- 0.28,0.4424,0.0306,2.784,5
